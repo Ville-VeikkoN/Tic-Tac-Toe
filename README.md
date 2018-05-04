@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-tac-toe game
+First Java school project at Tamk.
